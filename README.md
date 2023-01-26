@@ -1,4 +1,4 @@
-# BCC_FUGAZZI-in-Datavidia-2023
+# Datavidia 2023
 
 BCC_FUGAZZI's members :
 1) Cesilia Natasya Nainggolan (cesinata on Github)
